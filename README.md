@@ -13,3 +13,5 @@ Tela do produto, **campo** de selecionar produtos, carrinho, *fechamento de comp
 * aws
 * S3
 * Ec2
+
+![logo do Python](img/python.png)
