@@ -7,9 +7,9 @@ Tela do produto, **campo** de selecionar produtos, carrinho, *fechamento de comp
 
 ##### Linguagens a serem utilizadas:
 
-python
-php
-docker
-aws
-S3
-Ec2
+*python
+*php
+*docker
+*aws
+*S3
+*Ec2
